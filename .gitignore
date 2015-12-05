@@ -1,0 +1,4 @@
+CMakeLists.txt.user
+conanbuildinfo.cmake
+conaninfo.txt
+conanfile.pyc
